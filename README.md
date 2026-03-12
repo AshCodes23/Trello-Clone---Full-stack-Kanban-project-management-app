@@ -38,8 +38,6 @@ npm install
 npm run dev      # Starts Vite server at localhost:5173
 ```
 
-## AI Tools Usage
-Implemented entirely with the Antigravity agent (LLM Assistant). 
 
 ## Assumptions
 - Uses a mock user ID and mock authentication logic since the requirement was "no login required." 
